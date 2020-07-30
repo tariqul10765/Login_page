@@ -156,5 +156,6 @@ input[type="submit"]:hover{
         justify-content: center;
         align-items: center;
         font-family: Arial;
+        margin-bottom: 30px;
     }
 }
